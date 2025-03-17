@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "M.Nhut Roblox",
-         Animation = "Xin Chào"
+         Animation = "Script by: Nhut Roblox"
          },
         Key = {
         KeySystem = false,
